@@ -9,7 +9,7 @@ This is my personal portfolio website showcasing my skills, projects, certificat
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Deployment**: Netlify ,Self-Hosted (DDNS(https://www.duckdns.org) + Port Forwarding),Github Page
+- **Deployment**: Netlify ,Self-Hosted (DDNS(https://www.duckdns.org) + Port Forwarding)-Going On  and Github Page
 - **Design**: Responsive, clean, and modern UI
 
 ## 📂 Sections Included
