@@ -9,7 +9,7 @@ This is my personal portfolio website showcasing my skills, projects, certificat
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Deployment**: Netlify
+- **Deployment**: Netlify ,Self-Hosted (DDNS + Port Forwarding),Github Page
 - **Design**: Responsive, clean, and modern UI
 
 ## 📂 Sections Included
@@ -24,7 +24,7 @@ This is my personal portfolio website showcasing my skills, projects, certificat
 
 - 🔗 [Live Website](https://hemantchoudharyy.netlify.app)
 - 💻 [GitHub Profile](https://github.com/hcjaat)
-- 📧 [Email Me](hemant.ktp8@gmail.com)
+- 📧 [Email Me](mailto:hemant.ktp8@gmail.com)
 
 ## 📝 How to Use
 
