@@ -1,6 +1,7 @@
 # 💼 Personal Portfolio – Hemant Choudhary
 
 🚀 Live at: [hemantchoudharyy.netlify.app](https://hemantchoudharyy.netlify.app)
+         - 🌐 [GitHub Pages](https://hcjaat.github.io/Portfolio/)
 
 ## 📌 About
 
