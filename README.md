@@ -1,48 +1,65 @@
-# 💼 Personal Portfolio – Hemant Choudhary
+💼 Personal Portfolio – Hemant Choudhary
+🚀 Live at:
 
-🚀 Live at: [hemantchoudharyy.netlify.app](https://hemantchoudharyy.netlify.app)
-                 - 🌐 [GitHub Pages](https://hcjaat.github.io/Portfolio/)
+🌐 Netlify
 
-## 📌 About
+🖥️ GitHub Pages
 
+🖧 Self-Hosted (via Tailscale)
+
+📌 About
 This is my personal portfolio website showcasing my skills, projects, certifications, and contact details. It's built to represent my professional identity as an engineering student passionate about technology, coding, and cybersecurity.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Deployment**: Netlify ,Self-Hosted (DDNS(https://www.duckdns.org) + Port Forwarding)-Going On  and Github Page
-- **Design**: Responsive, clean, and modern UI
+Deployment:
 
-## 📂 Sections Included
+Netlify
 
-- **Home**: Introduction and brief overview
-- **About**: My background and interests
-- **Projects**: Highlighted academic and personal projects
-- **Certificates**: Verified certifications and achievements
-- **Contact**: Easy ways to reach me
+Self-Hosted (Ubuntu Server using Tailscale)
 
-## 🔗 Useful Links
+GitHub Pages
 
-- 🔗 [Live Website](https://hemantchoudharyy.netlify.app)
-- 💻 [GitHub Profile](https://github.com/hcjaat)
-- 📧 [Email Me](mailto:hemant.ktp8@gmail.com)
+Design: Responsive, clean, and modern UI
 
-## 📝 How to Use
+📂 Sections Included
+Home: Introduction and brief overview
 
+About: My background and interests
+
+Projects: Highlighted academic and personal projects
+
+Certificates: Verified certifications and achievements
+
+Contact: Easy ways to reach me
+
+🔗 Useful Links
+🔗 Live Website
+
+💻 GitHub Profile
+
+📧 Email Me
+
+🖧 Ubuntu Server (Tailscale Link)
+
+📝 How to Use
 You can fork or clone this repo if you want to build a similar portfolio:
-```bash
+
+bash
+Copy
+Edit
 git clone https://github.com/hcjaat/Portfolio.git
+👉 What You Should Do:
+Copy the above markdown.
 
+Save it in your repo as README.md.
 
----
+Commit and push:
 
-### 👉 What You Should Do:
-
-1. Copy the above markdown.
-2. Save it in your repo as `README.md`.
-3. Commit and push:
-```bash
+bash
+Copy
+Edit
 git add README.md
-git commit -m "Added professional README"
+git commit -m "Added Tailscale self-hosted deployment info"
 git push
-
