@@ -1,65 +1,52 @@
-💼 Personal Portfolio – Hemant Choudhary
-🚀 Live at:
+# 💼 Personal Portfolio – Hemant Choudhary
 
-🌐 Netlify
+🚀 **Live Deployments**
+- 🌐 [Netlify](https://hemantchoudharyy.netlify.app)
+- 🖥️ [GitHub Pages](https://hcjaat.github.io/Portfolio/)
+- 🖧 [Self-Hosted via Tailscale (Ubuntu Server)](https://hemantserver.tailac05d8.ts.net/)
 
-🖥️ GitHub Pages
+---
 
-🖧 Self-Hosted (via Tailscale)
+## 📌 About
 
-📌 About
-This is my personal portfolio website showcasing my skills, projects, certifications, and contact details. It's built to represent my professional identity as an engineering student passionate about technology, coding, and cybersecurity.
+This is my personal portfolio website showcasing my skills, projects, certifications, and contact details.  
+It represents my professional identity as an engineering student passionate about **technology, coding, and cybersecurity**.
 
-🛠️ Tech Stack
-Frontend: HTML5, CSS3, JavaScript
+---
 
-Deployment:
+## 🛠️ Tech Stack
 
-Netlify
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Deployment**:  
+  - Netlify  
+  - GitHub Pages  
+  - Self-Hosted (Ubuntu Server using [Tailscale](https://tailscale.com))  
+- **Design**: Responsive, clean, and modern UI
 
-Self-Hosted (Ubuntu Server using Tailscale)
+---
 
-GitHub Pages
+## 📂 Sections Included
 
-Design: Responsive, clean, and modern UI
+- **Home** – Introduction and brief overview  
+- **About** – My background and interests  
+- **Projects** – Highlighted academic and personal projects  
+- **Certificates** – Verified certifications and achievements  
+- **Contact** – Easy ways to reach me
 
-📂 Sections Included
-Home: Introduction and brief overview
+---
 
-About: My background and interests
+## 🔗 Useful Links
 
-Projects: Highlighted academic and personal projects
+- 🔗 [Live Website (Netlify)](https://hemantchoudharyy.netlify.app)  
+- 💻 [GitHub Profile](https://github.com/hcjaat)  
+- 📧 [Email Me](mailto:hemant.ktp8@gmail.com)  
+- 🖧 [Ubuntu Server (Tailscale)](https://hemantserver.tailac05d8.ts.net/)
 
-Certificates: Verified certifications and achievements
+---
 
-Contact: Easy ways to reach me
+## 📝 How to Use
 
-🔗 Useful Links
-🔗 Live Website
-
-💻 GitHub Profile
-
-📧 Email Me
-
-🖧 Ubuntu Server (Tailscale Link)
-
-📝 How to Use
 You can fork or clone this repo if you want to build a similar portfolio:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/hcjaat/Portfolio.git
-👉 What You Should Do:
-Copy the above markdown.
-
-Save it in your repo as README.md.
-
-Commit and push:
-
-bash
-Copy
-Edit
-git add README.md
-git commit -m "Added Tailscale self-hosted deployment info"
-git push
